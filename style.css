@@ -1,0 +1,109 @@
+body{
+	background: grey url("http://www.creditlenders.info/wp-content/uploads/10-free-website-background-images-for-spring-free-background-images-for-websites.jpg");
+	background-url: https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwikuLCh_4feAhWUaCsKHWzZBdsQjRx6BAgBEAU&url=http%3A%2F%2Fwww.creditlenders.info%2Ffree-background-images-for-websites%2Ffree-background-images-for-websites-background-images-for-websites-free-download%2F&psig=AOvVaw0BXCPjQBHHp_kIdlzm6NRV&ust=1539677348753647;
+	
+}
+
+.header{
+	height: 20px;
+	width: 905px;
+
+}
+
+
+.siteName{
+	font-family: Calibari;
+	color: white;
+	float: left;
+	position: relative;
+	top: -10px;
+}
+
+.menuDrop{
+	font-family: arial;
+	color: white;
+	float: right;
+	position: relative;
+	top: 4px;
+}
+
+.parentContainer{
+	height: 1200px;
+	width: 900px;
+	background: white;
+	color: black;
+	position: relative;
+	left: 5%;
+	top: 20px;
+	down: 20px;
+
+}
+
+
+
+.slider{
+	height: 250px;
+	width: 890px;
+	background: red;
+	margin: 10px 5px 5px 5px;
+	position: relative;	
+}
+
+
+
+.menu{
+	height: 80px;
+	width: 99%;
+	align:center;
+	margin: 5px;
+	background: yellow;
+}
+
+
+.products{
+	position: relative;
+	float: left;
+	height: 630px;
+	width: 72%;
+	background: lightGreen;
+	margin: 5px;
+}
+
+
+.asideBox{
+	position: relative;
+	float: right;
+	height: 120px;
+	width: 25%;
+	background: blue;
+	margin: 5px;	
+}
+
+.aside{
+	position: relative;
+	float: right;
+	height: 500px;
+	width: 25%;
+	background: Green;
+	margin: 5px;	
+}
+
+.footer{
+	height: 120px;
+	width: 890px;
+	background: skyBlue;
+	margin: 5px;
+
+	position: relative;
+	float: right;
+
+
+}
+
+
+
+
+
+
+
+
