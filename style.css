@@ -39,8 +39,13 @@ body{
 
 }
 
-
-
+.linkButton{
+	height: 10px;
+	width: 30px;
+	background: black;
+	color: white;
+}
+	
 .slider{
 	height: 250px;
 	width: 890px;
