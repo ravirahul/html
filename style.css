@@ -39,11 +39,12 @@ body{
 
 }
 
-.linkButton{
+a .linkButton{
 	height: 10px;
 	width: 30px;
 	background: black;
 	color: white;
+	
 }
 	
 .slider{
